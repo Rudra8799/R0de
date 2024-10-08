@@ -28,6 +28,15 @@ A real-time code collaboration platform where multiple users can edit and share 
 - **Deployment**: Render
 - **NPM Packages**: express, monaco-editor, cors
 
+Deployment
+This project is deployed on Render. You can check the live version here.
+
+Deploying on Render
+Connect your repository to Render.
+Set up two services:
+Web Service (React): For the frontend.
+Background Worker (Node.js): For the backend.
+Deploy the services and link them for seamless communication.
 ## Installation
 
 1. Clone the repository:
